@@ -1,0 +1,7 @@
+다음 기기로 학습합니다: cuda
+(612, 260, 260, 4)
+(612, 1)
+total size: 612
+trainsets size: 428
+validsets size: 184
+------------epoch:1-------------
